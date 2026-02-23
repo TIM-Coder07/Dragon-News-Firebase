@@ -23,8 +23,6 @@ const CategoryNews = () => {
     }
   }, [id, data]);
 
-  // console.log(id, data);
-
   return (
     <div>
       <h2 className="font-bold mb-5">
